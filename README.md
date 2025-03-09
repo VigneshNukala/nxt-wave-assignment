@@ -2,7 +2,7 @@
 
 
 ## **Deployment Link:**
-https://street-style-store-t1t7.onrender.com
+https://nxt-wave-assignment.onrender.com
 
 ## **Description**
 
@@ -22,7 +22,7 @@ Follow these steps to set up your development environment:
 ### **1. Clone the repository:**  
 
 ```bash
-git clone https://github.com/VigneshNukala/street-style-store.git
+git clone https://github.com/VigneshNukala/nxt-wave-assignment.git
 cd street-style-store
 ```
 
